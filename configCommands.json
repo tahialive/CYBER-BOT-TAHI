@@ -1,60 +1,137 @@
-{
-  "commandBanned": {},
-  "envGlobal": {
-    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
-    "goatbotApikey": ""
-  },
-  "envCommands": {
-    "daily": {
-      "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
-      }
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261596053734858%22%3A%22IZOE7kTX%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.059Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "notification": {
-      "delayPerGroup": 250
+    {
+        "key": "datr",
+        "value": "OnXoak8Pv8izRQYZJlW93fD3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "rank": {
-      "deltaNext": 5
+    {
+        "key": "sb",
+        "value": "OnXoanAzVSBrXo3WOeGJEALJ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "rankup": {
-      "deltaNext": 5
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.3375003337860107",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "appstore": {
-      "limitResult": 3
+    {
+        "key": "wd",
+        "value": "393x873",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "dhbc": {
-      "reward": 1000
+    {
+        "key": "c_user",
+        "value": "61596053734858",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "timer": {},
-    "quiz": {
-      "reward": 0
+    {
+        "key": "xs",
+        "value": "9%3AZqjYjxy4H6WnLw%3A2%3A1793619299%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "note": {
-      "delayPerGroup": 250
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "datetime": {},
-    "tell": {
-      "delayPerGroup": 250
+    {
+        "key": "pas",
+        "value": "61596053734858%3AuzWfNnICyA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "animequiz": {
-      "reward": 1000
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     },
-    "info": {}
-  },
-  "envEvents": {
-    "logsbot": {
-      "allow": true
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B801x393x2.3375003337860107",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
+    },
+    {
+        "key": "fr",
+        "value": "0HHPykrxlWxAyCixH.AWeZ9XVKlCorzXoN7ZsSDjCXjpI3pwa7lbbNjLsvXoV_yRX3Fwc.Bq6HU6..AAA.0.0.Bq6HV1.AWf9KIURW8OnlZIzff5wtP3OLzo",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100628837%3BT%3A29893655",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3345%3Btimestamp%3A1793619317",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-02T11:36:48.060Z",
+        "lastAccessed": "2026-11-02T11:36:48.060Z"
     }
-  },
-  "commandUnload": [
-    "busy.js",
-    "shoti.js",
-    "callad.js",
-    "haha.js",
-    "gen.js",
-    "shoti2.js",
-    "fight.js",
-    "ttt.js"
-  ]
-}
+]
